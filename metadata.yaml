@@ -1,5 +1,8 @@
 _repo: The-Black-Dwarf_1460
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Scott, Walter
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/59
     wikipedia: http://en.wikipedia.org/wiki/Walter_Scott
 description: Waverley novel
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1460#The-Black-Dwarf
 gutenberg_bookshelf: Historical Fiction
 gutenberg_issued: '2006-02-15'
 gutenberg_type: Text
